@@ -21,5 +21,12 @@
 - DELETE: remove the rows
 
 ---
+## NoSQL
+> Not Only SQL
+- a mechanism for storage and retrieval of unstructured data moeled by means other than tabular relations in relational databases.
+
+---
 ## R
 > statistical and graphing language
+
+---
