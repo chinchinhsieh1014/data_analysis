@@ -26,6 +26,10 @@
 - a mechanism for storage and retrieval of unstructured data moeled by means other than tabular relations in relational databases.
 
 ---
+## Data Modeling
+> organizes and structures information into multiple, related tables.
+
+---
 ## R
 > statistical and graphing language
 
